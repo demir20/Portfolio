@@ -1,0 +1,50 @@
+.brand-logo {
+    font-family: 'Questrial', sans-serif;
+    margin-left: 10px;
+}
+
+li, p, h4, h5, h6, h2 {
+    font-family: 'Questrial', sans-serif;
+}
+
+i {
+    margin-right: 10px;
+}
+
+.nav-wrapper {
+    background-color: #1f456e;
+}
+
+.btn {
+    background-color: #52b2bf;
+}
+
+body {
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h5, h6 {
+    text-align: center;
+}
+
+#intro, #skills, #qualities {
+    background-color: lightslategrey;
+    color: white;
+    border-radius: 5px;
+    border:#151e3d 2px solid;
+}
+
+#belgiumPic {
+    border-radius: 40%;
+    margin-top: 5px;
+}
+
+.card-text {
+    font-size: 8pt;
+}
+
+.white-text {
+    padding: 5px;
+}
